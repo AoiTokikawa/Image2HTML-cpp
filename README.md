@@ -3,7 +3,7 @@ This is the C++ version of [Image2HTML](https://github.com/AoiTokikawa/Image2HTM
 This version also generates a valid HTML document with `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags. Future versions of this program might add ways to customize this.
 
 ## Dependencies
-This code uses the CImg library (downloaded from [here](https://cimg.eu/download.html))
+This code uses the CImg library (downloaded from [here](https://cimg.eu/download.html)). So please download it and have it in the same directory as the source code.
 
 ## Usage
 After compiling the source code (per your OS) using Image2HTML is easy.  
